@@ -1,0 +1,11 @@
+name: Ingotfarm
+version: ${project.version}
+main: ml.meddiwale.ingotfarm.Ingotfarm
+api-version: 1.17
+prefix: IF
+commands:
+  aingotfarm:
+    usage: /aingotfarm
+    description: Включает автофарм хорусов Слитком Хорусов
+    aliases:
+      - aif
